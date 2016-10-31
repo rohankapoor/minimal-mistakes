@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : ""
 title_separator          : "-"
 name                     : "Rohan Kapoor"
-description              : "An amazing website."
+description              : "All about me"
 url                      : https://rohankapoor.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : rohankapoor/rohankapoor.github.io
@@ -87,17 +87,17 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/rustyrides"
+  facebook         : "rustyrides"
   foursquare       :
-  github           : "https://github.com/rohankapoor"
+  github           : "rohankapoor"
   google_plus      :
   keybase          :
   instagram        : "@ronzkap"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kapoorrohan"
+  linkedin         : "kapoorrohan"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "1338395/rohan"
   steam            :
   tumblr           :
   twitter          : 
